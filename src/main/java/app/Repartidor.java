@@ -1,4 +1,4 @@
-package modelo;
+package app;
 
 public class Repartidor {
 
