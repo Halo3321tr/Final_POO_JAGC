@@ -10,5 +10,5 @@ public enum Zona {
 
     Zona(double valorTarifa) {tarifa = valorTarifa;}
 
-    public double getTarifa() {return tarifa}
+    public double getTarifa() {return tarifa;}
 }
